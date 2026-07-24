@@ -1,0 +1,122 @@
+ole Description:
+
+Salesforce is seeking a strategic and execution-oriented leader to serve as Vice President, Sales Strategy - Agentforce and Data 360. This leader will act as the primary architect of our GTM execution for Agentforce and Data 360—the fastest-growing organic innovation in company history—focusing on bridging high-level consumption sales strategy with field execution to capture this massive market opportunity.
+
+This leader will serve as a trusted business partner to sales leadership, driving key projects end-to-end. You will ensure our account teams have the tools, data, and programs they need to build high-quality pipelines, accelerate growth, and close deals at scale in a sophisticated, matrixed consumption sales environment.
+
+Responsibilities:
+
+Sales Strategy & Planning: Partner with sales leadership to design annual and quarterly GTM motions, territory planning, and quotas that align with Agentforce and Data 360 aggressive growth targets.
+Pipeline Generation & Activation: Design and oversee the execution of pipeline "rush" programs, demand-generation initiatives, and prioritization efforts, ensuring marketing and sales efforts are perfectly synchronized.
+Sales Enablement & Excellence: Identify skill and product gaps, rolling out tailored enablement on new features, AI-driven sales plays, and competitive positioning.
+Operational Cadence & Data-Driven Insights: Lead the weekly, monthly, and quarterly operating cadences for ACV, NNAOV, Pipeline, and Consumption. Own the data and analytics for Agentforce and Data 360 to provide actionable insights that drive business health.
+Cross-Functional Orchestration: Act as the connective tissue between Distribution, Marketing, Finance, Product, and Customer Success to ensure operational plans are executed within budget and resources are allocated to the highest-growth opportunities.
+Team Leadership: Lead and develop a high-impact "SWAT team" of strategy analysts. Foster an inclusive, high-performing environment that attracts top talent and focuses on career development.
+Required Experiences & Skills:
+
+Experience: 10+ years of experience in Sales Strategy, Business Operations, or Strategy & Operations within high-growth SaaS companies; equivalent experience within management consulting will be considered.
+People Management: 3+ years of formal people management experience in a high-growth, continuously evolving environment.
+GTM Expertise: Proven track record of GTM design and planning, managing sales pipeline programs, and leading cross-functional, end-to-end strategic initiatives.
+Collaborative Influence: Demonstrated ability to act as a trusted advisor to senior leadership, navigating a matrixed environment and building consensus among diverse stakeholders without formal authority.
+Analytical Rigor: Proficiency in using data to tell a story and drive strategy; advanced knowledge of Agentforce and Data 360 is highly preferred.
+Leadership & Culture: A champion for Salesforce’s core values, dedicated to building inclusive, high-performing teams. A reputation for unquestionable ethics, integrity, and transparency.
+Agility: A "company-first" mentality with a continuous focus on business relevance, capable of thriving in a fast-paced environment and managing multiple priorities with a "solutions-first" mindset.
+Education: Bachelor’s degree or equivalent relevant experience required.
+About Hightouch
+Hightouch is an Agentic Marketing Platform powered by the industry-leading Composable CDP. With complete brand context, customer data, and performance history in one place, every marketer finally has the power to build and ship end-to-end campaigns themselves. Teams move faster, stay on brand, and get AI marketing that actually works.
+
+Founded in 2019 and headquartered in San Francisco, Hightouch enables marketing teams to analyze performance, brainstorm ideas, and generate creative at a speed and quality that wasn't previously possible.
+
+Named a Leader in the 2026 Gartner® Magic Quadrant™ for Customer Data Platforms, Hightouch is trusted by leading enterprises like Domino's, Spotify, Aritzia, Cars.com, Ramp, and PetSmart.
+
+At Hightouch, our mission is to help our customers leverage data and AI to grow their businesses. The team is ambitious, impact-driven, efficient — and we believe humility, kindness, and compassion are essential to our success. If you're energized by velocity, obsessed with raising the bar, and want to build alongside people who care deeply about each other and our customers, we'd love to meet you.
+
+The Role
+We're hiring a seasoned Sales Operations professional to be the right hand to our Head of Revenue Operations and a force multiplier for the entire GTM organization. This is a hands-on, senior individual contributor role for someone who can own problems end-to-end. You’ll touch all aspects of our sales performance, from pipeline and forecasting to territories and process — and drive real impact.
+
+Hightouch has grown from 10 to 50+ account executives in under two years. That kind of growth creates complexity and we need someone who can cut through it quickly, surface what actually matters, and iterate their way to better answers. This is not a role for someone who simply administers existing processes. It's for someone who questions whether the process is right in the first place, fixes what's broken, and builds what's missing.
+
+This role reports to our Head of Revenue Operations. You'll be hands-on-keyboard from day one while also helping build the foundation for how RevOps scales at Hightouch.
+
+What You'll Do
+Own pipeline and funnel analysis with a bias toward action. Track how deals move through the funnel, find what's broken, deeply understand why, propose a fix, ship it, and learn from it. Support the weekly forecast with bottoms-up rigor and surface risk before it becomes a miss. We move in days, not quarters.
+Run territory and account management as a living system. Maintain coverage models, balance books of business as we grow, help reassess segmentation, and evolve propensity scoring, intent signals, and routing so reps are pointed at the right accounts.
+Build reporting and systems that scale. Develop dashboards, models, and repeatable processes so insight and operations don't get reinvented every cycle. Turn one-off fire drills into durable infrastructure. Build capably with our AI tools to compress insight cycle time and improve process consistency within RevOps and across the GTM org.
+Connect dots across the GTM org. RevOps at Hightouch is a vital connective function. Partner across marketing, finance, pre-sales, post-sales, and the exec team — your ability to surface information and collaborate across these groups will make you indispensable. You’ll also play a key role in coordinating efforts and staffing between sales, lead generation (marketing, partnerships, and SDR), sales engineering, and post-sales. 
+Who You Are
+You've operated in high-growth, high-velocity sales environments. Ideally with 50+ AEs at a company selling enterprise software at multi-$100K or $1M+ price points through direct outbound and partnerships. You know how complex this motion gets and you've learned how to prioritize what matters.
+You think from first principles. When something isn't working, you don't reach for an industry framework first. You ask why, build a hypothesis, and test it. You hold views loosely and update them fast, and you're eager to learn how Hightouch actually runs rather than just apply what worked at your last company.
+You have a bias toward iteration over perfection. You'd rather ship an imperfect fix that moves a decision forward than spend two weeks on something polished that lands too late.
+You're genuinely hands-on-keyboard. You build your own reports, write your own queries, and configure the systems yourself. You go get the answer rather than hand off a spec and wait. (Snowflake, dbt, and Omni are our analysis stack, and we spend a lot of time in Salesforce and Gong too.) You have fast-growing fluency in using AI to accelerate your work.
+You've used data, comp, and visibility to change behavior. You have a strong business partner mindset. Your work hasn't just described what's happening, it's changed how reps and managers operate. You can make the case for an uncomfortable change when the numbers support it.
+You're a clear, direct communicator. Sales leaders and executives trust you because you tell them what you actually think, not what they want to hear. You can explain a nuanced revenue problem without burying the point.
+You have empathy for sellers. You are unafraid to shadow reps to understand practical problems and develop better solutions. Quota-carrying experience is a plus.
+The Role
+Our GTM organization is scaling fast and needs a strategic and analytical foundation to match. In this role you will lead our Sales Strategy and Revenue Analytics pillars, reporting to the VP of Revenue Operations. This role requires someone who has operated in a consumption or usage-based business and understands how that changes forecasting, territory design, and what good GTM metrics actually look like.
+
+You'll own the foundation the GTM org runs on: operating model, territory and coverage design, revenue and GPU forecasting, QBR/WBR operating cadence, and the repeatable sales motions that turn annual strategy into quarterly execution. You'll be a strategic partner to sales leadership and a connector across Sales, Finance, Data, and Product.
+
+You'll set the operating model, defend it with data, and change it when the business changes. We want someone who measures their impact in decisions changed, not decks delivered.
+
+What You'll Own
+1. GTM Operating Model and Territory/ROE Design
+Own how the GTM organization is structured to win: segment coverage, territory design, rules of engagement across GTM and Product, and quota-setting philosophy. Translate annual targets into territory plans that give every rep a fair book and every segment the right level of coverage. Revisit and adjust as the business evolves.
+
+2. Revenue and GPU Forecasting
+Build and own the forecasting process across bookings, renewals, and consumption in partnership with Finance, Sales, and Data. Establish a methodology that works for a business where committed ARR and consumption expansion behave differently. Deliver forecasts leadership can trust, with clear variance explanation and recommended actions.
+
+3. Business Partnership and Operating Cadence
+Run the QBR, WBR, and planning forums that keep the GTM organization aligned, accountable, and moving. Design the cadence, own the agenda, and make sure the output is decisions and actions, not status updates. Act as a strategic advisor to GTM leaders, surfacing pipeline risk and growth opportunity before it shows up in results.
+
+4. Sales Process into Repeatable Motions
+Define and execute a consistent sales process across account planning, territory planning, and pipeline generation. Turn what works into a playbook. Instrument it so performance is visible, coaching is targeted, and the team gets better over time.
+
+Minimum Qualifications
+10+ years in Revenue Strategy, Sales Strategy, Sales Operations, or Revenue Operations at B2B companies
+Has owned an end-to-end forecasting process, not just contributed to one
+Has designed territory and quota models at scale
+Has built and led a team with direct reports across strategy or analytics functions
+Strong analytical foundation: can build a model from scratch, not just interpret one
+Preferred Qualifications
+Experience at a usage-based, consumption, or API-first company
+Has run strategy and operations across both enterprise and PLG/product-led motions simultaneously
+Comfortable presenting to CFO, board, and executive team with well-reasoned variance analysis
+Has worked at an AI/ML infrastructure, developer tools, or high-growth technical B2B company
+ We are seeking a senior Strategy and Operations leader to own Revenue Strategy and Operations for the Americas and lead our global Velocity go-to-market motion. This is one of the most senior roles on the Revenue Strategy & Operations team, and we are looking for someone ready to operate well beyond the scope of a traditional regional role.
+
+In this role, you will partner with Asana's AMER Sales Leadership and GTM teams to define region and segment-level strategy, drive operational excellence, and lead strategic initiatives across this high-growth business. In addition to the AMER scope, you will own strategy and operational execution for Asana's global Velocity business—including SDR, BDR, and SMB—requiring a distinct GTM approach.
+
+This role can either be fully remote depending on which US state you live in, or based in our San Francisco, New York or Chicago office with an office-centric hybrid schedule. If based in-office: The standard in-office days are Monday, Tuesday, and Thursday. Most Asanas have the option to work from home on Wednesdays. Working from home on Fridays depends on the type of work you do and the teams with which you partner. If you're interviewing for this role, your recruiter will share more about the in-office requirements.
+
+What you’ll achieve
+
+Define Asana's go-to-market strategy for the AMER region over a 1–3 year horizon, acting as a strategic partner to the GM of AMER across both Enterprise and Corporate segments.
+Own AMER operational execution: forecasting cadence, pipeline health, QBRs, and performance readouts with clearly explained variance and recommended actions.
+Lead strategy and operations for Asana's global Velocity business, building the operating model, planning inputs, and execution infrastructure for this motion as it scales.
+Embed AI-native tooling and workflows into AMER and Velocity operating rhythms, driving measurable improvements in AE productivity, pipeline velocity, and forecast accuracy.
+Translate annual strategy into detailed plans during planning season, including territory and coverage design, book-of-business allocation, headcount recommendations, and productivity targets, in partnership with Sales, Finance, and Revenue Transformation.
+Identify, own, and execute strategic initiatives to drive growth and efficiency across AMER and Velocity, working cross-functionally with Sales, CX, Marketing, Product, and Finance.
+Drive data-driven decision-making and surface proactive insights; own the operating cadence that keeps the business informed and moving.
+Build, develop, and retain a high-performing team.
+Partner closely with the Global Head of Revenue Strategy and Operations on org-wide priorities, with regular exposure to senior leadership and cross-functional decision-making.
+About you
+
+Demonstrates curiosity about AI tools and emerging technologies, with a willingness to learn and leverage them to enhance productivity, collaboration, or decision-making.
+10+ years of experience in strategy, operations, or similar roles, ideally within a software or high-growth enterprise environment.
+Experience building and leading multi-layered teams across strategy and operational functions.
+Proven track record owning both strategic planning and day-to-day operational execution.
+Energized by building in white space; the Velocity remit is an emerging priority that will need structure, strategy, and operational foundation built around an evolving GTM motion.
+Familiarity with AI-powered GTM tooling and a point of view on where automation creates leverage in a revenue org.
+Demonstrated ability to work cross-functionally and act as a trusted advisor to executive stakeholders, including GMs and C-suite leaders.
+Exceptional analytical fluency and communication skills, with the range to move between high-level strategy and ground-level execution.
+At Asana, we're committed to building teams that include a variety of backgrounds, perspectives, and skills, as this is critical to helping us achieve our mission. If you're interested in this role and don't meet every listed requirement, we still encourage you to apply.
+
+What we’ll offer
+
+Our comprehensive compensation package plays a big part in how we recognize you for the impact you have on our path to achieving our mission. We believe that compensation should be reflective of the value you create relative to the market value of your role. To ensure pay is fair and not impacted by biases, we're committed to looking at market value which is why we check ourselves and conduct a yearly pay equity audit.
+
+For this role, the estimated base salary range will vary based on your location. Locations in the US are categorized into one of three geographic pay zones, and the ranges for the zones are as follows:
+
+Zone A: $269,000 - $316,000
+Zone B: $242,000 - $284,000
+Zone C: $215,000 - $253,000
