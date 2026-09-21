@@ -1,3 +1,4 @@
+Reviewed September 21
 # Strategic Copilot
 
 An automated job search pipeline for anyone actively looking for their next role. Every weekday morning it scans your target companies' job boards, scores each posting against your profile using Claude AI, and writes only the relevant roles to a Google Sheet. You open it over breakfast and your shortlist is ready. No coding required to set up or run.
